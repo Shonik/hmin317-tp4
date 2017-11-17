@@ -1,0 +1,12 @@
+<RCC>
+    <qresource prefix="/">
+        <file>cube.png</file>
+        <file>heightmap-1.png</file>
+        <file>heightmap-2.png</file>
+        <file>heightmap-3.png</file>
+        <file>fall.jpg</file>
+        <file>snow.jpg</file>
+        <file>spring.jpg</file>
+        <file>summer.jpg</file>
+    </qresource>
+</RCC>
